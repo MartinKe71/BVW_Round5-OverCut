@@ -1,0 +1,214 @@
+r1:end of response
+
+--------------------------
+UNITY > c:pluginConfig end
+Got config end = ''
+c32:disableCommand add
+c32:disableCommand changeDescription
+c32:disableCommand changeMove
+c32:disableCommand changes
+c32:disableCommand changeStatus
+c32:disableCommand checkout
+c32:disableCommand deleteChanges
+c32:disableCommand delete
+c32:disableCommand download
+c32:disableCommand getLatest
+c32:disableCommand incomingChangeAssets
+c32:disableCommand incoming
+c32:disableCommand lock
+c32:disableCommand move
+c32:disableCommand resolve
+c32:disableCommand revertChanges
+c32:disableCommand revert
+c32:disableCommand status
+c32:disableCommand submit
+c32:disableCommand unlock
+c32:offline Perforce server and port not set. Ignoring connection request.
+r1:end of response
+
+--------------------------
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+p1:-1 0 Change 135852 created with 2 open file(s).
+p1:-1 0 Submitting change 135852.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/Carrot.prefab#2
+p1:-1 0 delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/Carrot.prefab.meta#2
+p1:-1 0 Change 135852 submitted.
+p1:-1 1 Change 135853 created with 2 open file(s).
+p1:-1 1 Submitting change 135853.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/Carrot.prefab#3
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/Carrot.prefab.meta#3
+p1:-1 1 Change 135853 submitted.
+p1:-1 1 Change 135882 created with 2 open file(s).
+p1:-1 1 Submitting change 135882.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/Carrot.prefab#5
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/Carrot.prefab.meta#4
+p1:-1 1 Change 135882 submitted.
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+p1:-1 0 Change 136398 created with 4 open file(s).
+p1:-1 0 Submitting change 136398.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 move/delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/LeftHand.prefab#6
+p1:-1 0 move/delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/LeftHand.prefab.meta#5
+p1:-1 0 move/add //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/LeftHand_old2.prefab#1
+p1:-1 0 move/add //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/LeftHand_old2.prefab.meta#1
+p1:-1 1 Change 136398 submitted.
+p1:-1 0 Change 136399 created with 2 open file(s).
+p1:-1 0 Submitting change 136399.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/LeftHand.prefab#7
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/LeftHand.prefab.meta#6
+p1:-1 0 Change 136399 submitted.
+C:\Users\ketia\Perforce\tianrunk_Laptop\etc\courses\2020_semester_3\bvw\round5\team40\working\OverCut\Assets\Sound\time‘s up.wav.meta - file does not exist.
+
+e1:C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round5\\team40\\working\\OverCut\\Assets\\Sound\\time‘s up.wav.meta - file does not exist.\n
+C:\Users\ketia\Perforce\tianrunk_Laptop\etc\courses\2020_semester_3\bvw\round5\team40\working\OverCut\Assets\Sound\time‘s up.wav.meta - file does not exist.
+
+e1:C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round5\\team40\\working\\OverCut\\Assets\\Sound\\time‘s up.wav.meta - file does not exist.\n
+C:\Users\ketia\Perforce\tianrunk_Laptop\etc\courses\2020_semester_3\bvw\round5\team40\working\OverCut\Assets\Sound\time‘s up.wav.meta - file does not exist.
+
+e1:C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round5\\team40\\working\\OverCut\\Assets\\Sound\\time‘s up.wav.meta - file does not exist.\n
+C:\Users\ketia\Perforce\tianrunk_Laptop\etc\courses\2020_semester_3\bvw\round5\team40\working\OverCut\Assets\Sound\time‘s up.wav.meta - file does not exist.
+
+e1:C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round5\\team40\\working\\OverCut\\Assets\\Sound\\time‘s up.wav.meta - file does not exist.\n
+C:\Users\ketia\Perforce\tianrunk_Laptop\etc\courses\2020_semester_3\bvw\round5\team40\working\OverCut\Assets\Sound\time‘s up.wav.meta - file does not exist.
+
+e1:C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round5\\team40\\working\\OverCut\\Assets\\Sound\\time‘s up.wav.meta - file does not exist.\n
+C:\Users\ketia\Perforce\tianrunk_Laptop\etc\courses\2020_semester_3\bvw\round5\team40\working\OverCut\Assets\Sound\time‘s up.wav.meta - file does not exist.
+
+e1:C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round5\\team40\\working\\OverCut\\Assets\\Sound\\time‘s up.wav.meta - file does not exist.\n
+C:\Users\ketia\Perforce\tianrunk_Laptop\etc\courses\2020_semester_3\bvw\round5\team40\working\OverCut\Assets\Sound\time‘s up.wav.meta - file does not exist.
+
+e1:C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round5\\team40\\working\\OverCut\\Assets\\Sound\\time‘s up.wav.meta - file does not exist.\n
+C:\Users\ketia\Perforce\tianrunk_Laptop\etc\courses\2020_semester_3\bvw\round5\team40\working\OverCut\Assets\Sound\time‘s up.wav.meta - file does not exist.
+
+e1:C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round5\\team40\\working\\OverCut\\Assets\\Sound\\time‘s up.wav.meta - file does not exist.\n
+C:\Users\ketia\Perforce\tianrunk_Laptop\etc\courses\2020_semester_3\bvw\round5\team40\working\OverCut\Assets\Sound\time‘s up.wav.meta - file does not exist.
+
+e1:C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round5\\team40\\working\\OverCut\\Assets\\Sound\\time‘s up.wav.meta - file does not exist.\n
+p1:-1 0 C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round5\\team40\\working\\OverCut\\Assets\\Scripts\\Audio\\SoundManager.cs
+p1:-1 0 C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round5\\team40\\working\\OverCut\\Assets\\Scripts\\Audio\\SoundManager.cs.meta
+p1:-1 0 C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round5\\team40\\working\\OverCut\\Assets\\Scripts\\Audio.meta
+p1:-1 0 C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round5\\team40\\working\\OverCut\\Assets\\Scripts\\GameManager.cs
+p1:-1 0 C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round5\\team40\\working\\OverCut\\Assets\\Scripts\\GameManager.cs.meta
+p1:-1 0 opened and not being changed
+p1:-1 0 opened and not being changed
+p1:-1 1 Change 136874 created with 2 open file(s).
+p1:-1 1 Submitting change 136874.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scripts/Food/TheFood.cs#27
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scripts/Food/TheFood.cs.meta#27
+p1:-1 1 Change 136874 submitted.
+p1:-1 1 Change 136875 created with 1 open file(s).
+p1:-1 1 Submitting change 136875.
+p1:-1 1 Locking 1 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/ProjectSettings/ProjectSettings.asset#5
+p1:-1 1 Change 136875 submitted.
+p1:-1 0 Change 136879 created with 2 open file(s).
+p1:-1 0 Submitting change 136879.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scripts/Knife/KnifeCutFood.cs#14
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scripts/Knife/KnifeCutFood.cs.meta#14
+p1:-1 0 Change 136879 submitted.
+p1:-1 1 Change 136896 created with 2 open file(s).
+p1:-1 1 Submitting change 136896.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scripts/Score/ScoreManager.cs#10
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scripts/Score/ScoreManager.cs.meta#10
+p1:-1 1 Change 136896 submitted.
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+p1:-1 0 Change 137074 created with 2 open file(s).
+p1:-1 0 Submitting change 137074.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scripts/GameManager.cs#12
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scripts/GameManager.cs.meta#12
+p1:-1 0 Change 137074 submitted.
+p1:-1 0 Change 137144 created with 2 open file(s).
+p1:-1 0 Submitting change 137144.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scripts/Knife/KnifeController.cs#20
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scripts/Knife/KnifeController.cs.meta#20
+p1:-1 0 Change 137144 submitted.
+p1:-1 0 Change 137190 created with 2 open file(s).
+p1:-1 0 Submitting change 137190.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scenes/Martin_testbyWish4.unity#12
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scenes/Martin_testbyWish4.unity.meta#5
+p1:-1 1 Change 137190 submitted.
+p1:-1 1 Change 137196 created with 2 open file(s).
+p1:-1 1 Submitting change 137196.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scripts/Food/TheFood.cs#33
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scripts/Food/TheFood.cs.meta#33
+p1:-1 1 Change 137196 submitted.
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+p1:-1 0 Change 137280 created with 2 open file(s).
+p1:-1 0 Submitting change 137280.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Shaders/TwoSided.shader#3
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Shaders/TwoSided.shader.meta#3
+p1:-1 1 Change 137280 submitted.
+p1:-1 1 Change 137364 created with 4 open file(s).
+p1:-1 1 Submitting change 137364.
+p1:-1 1 Locking 4 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Shaders/Food.shader#3
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Shaders/Food.shader.meta#3
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Shaders/TwoSided.shader#4
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Shaders/TwoSided.shader.meta#4
+p1:-1 1 Change 137364 submitted.
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+p1:-1 0 Change 137659 created with 4 open file(s).
+p1:-1 0 Submitting change 137659.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 move/delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/Plate.prefab#11
+p1:-1 0 move/delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/Plate.prefab.meta#4
+p1:-1 0 move/add //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/Plate_old.prefab#1
+p1:-1 0 move/add //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/Plate_old.prefab.meta#1
+p1:-1 1 Change 137659 submitted.
+p1:-1 0 Change 137660 created with 2 open file(s).
+p1:-1 0 Submitting change 137660.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/Plate.prefab#12
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/Plate.prefab.meta#5
+p1:-1 0 Change 137660 submitted.
+p1:-1 1 Change 137676 created with 2 open file(s).
+p1:-1 1 Submitting change 137676.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/DetectEndofClip.cs#2
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/DetectEndofClip.cs.meta#2
+p1:-1 1 Change 137676 submitted.
+p1:-1 1 Change 137677 created with 2 open file(s).
+p1:-1 1 Submitting change 137677.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scenes/Tutorial.unity#8
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Scenes/Tutorial.unity.meta#2
+p1:-1 1 Change 137677 submitted.
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+p1:-1 1 Change 137872 created with 10 open file(s).
+p1:-1 1 Submitting change 137872.
+p1:-1 1 Locking 10 files ...
+p1:-1 1 delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Sound/CutFinger/cut 1.wav#2
+p1:-1 1 delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Sound/CutFinger/cut 1.wav.meta#2
+p1:-1 1 delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Sound/CutFinger/cut 2.wav#2
+p1:-1 1 delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Sound/CutFinger/cut 2.wav.meta#2
+p1:-1 1 delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Sound/CutFinger/cut 3.wav#2
+p1:-1 1 delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Sound/CutFinger/cut 3.wav.meta#2
+p1:-1 1 delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Sound/CutFinger/cut 4.wav#2
+p1:-1 1 delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Sound/CutFinger/cut 4.wav.meta#2
+p1:-1 1 delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Sound/CutFinger/cut 5.wav#2
+p1:-1 1 delete //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Sound/CutFinger/cut 5.wav.meta#2
+p1:-1 1 Change 137872 submitted.
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+p1:-1 1 Change 138807 created with 2 open file(s).
+p1:-1 1 Submitting change 138807.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/LeftHand.prefab#31
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round5/team40/working/OverCut/Assets/Resources/LeftHand.prefab.meta#12
+p1:-1 1 Change 138807 submitted.

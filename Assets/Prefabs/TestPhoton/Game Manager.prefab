@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1204319837319270436
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1797933463842675561}
+  - component: {fileID: 497550061692144109}
+  - component: {fileID: 208115057}
+  - component: {fileID: 4518686294735896827}
+  - component: {fileID: 1725032598301736744}
+  - component: {fileID: 1992372582}
+  m_Layer: 0
+  m_Name: Game Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1797933463842675561
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204319837319270436}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &497550061692144109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204319837319270436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80a6cdc2ab3b9e746b0af536b341018c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PieceCounter: 0
+  PieceCounterText: {fileID: 0}
+  UICanvas: {fileID: 0}
+--- !u!114 &208115057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204319837319270436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea28cb648718b74eafa28b2bb56aa88, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startingTime: 60
+  timerStarted: 0
+  countDownText: {fileID: 0}
+  timeSlider: {fileID: 0}
+--- !u!114 &4518686294735896827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204319837319270436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f2173356315a0e47ae0bef06b5f483d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PieceCounter: 0
+  PieceCounterText: {fileID: 0}
+  _foodStats:
+  - prefabName: Carrot
+    maxTime: 60
+    pieceCount: 5
+    minWidth: 0.1
+    moveDistance: 1
+    position: {x: 0.63, y: -3.41, z: 4.43}
+    rotation: {x: 0, y: 0, z: -90}
+    isLast: 0
+  - prefabName: UnitedSteaks
+    maxTime: 60
+    pieceCount: 10
+    minWidth: 0.1
+    moveDistance: 1
+    position: {x: 0.63, y: -3.5, z: 4.2}
+    rotation: {x: 0, y: 180, z: 0}
+    isLast: 0
+  - prefabName: Onion
+    maxTime: 40
+    pieceCount: 10
+    minWidth: 0.1
+    moveDistance: 1
+    position: {x: 0, y: -1, z: 5.62}
+    rotation: {x: 0, y: 0, z: -90}
+    isLast: 0
+  - prefabName: Potato
+    maxTime: 40
+    pieceCount: 15
+    minWidth: 0.1
+    moveDistance: 1
+    position: {x: 0.42, y: -2.73, z: 5.38}
+    rotation: {x: 0, y: 0, z: 0}
+    isLast: 0
+  _curFoodStat:
+    prefabName: 
+    maxTime: 0
+    pieceCount: 0
+    minWidth: 0
+    moveDistance: 0
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    isLast: 0
+  _curFoodIdx: 0
+  _winTimeline: {fileID: 0}
+  _loseTimeline: {fileID: 0}
+--- !u!114 &1725032598301736744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204319837319270436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ObservedComponentsFoldoutOpen: 1
+  Group: 0
+  prefixField: -1
+  observableSearch: 2
+  Synchronization: 3
+  OwnershipTransfer: 0
+  ObservedComponents: []
+  viewIdField: 0
+  InstantiationId: 0
+  isRuntimeInstantiated: 0
+--- !u!114 &1992372582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204319837319270436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad7359c890b609a47855dc4e65d453e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BloodStain: {fileID: 0}
+  CutHand:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  bloodyState: 0
