@@ -7,8 +7,17 @@ Two players will be coordinating together to cut food and eventually make a curr
 #### Knife & Hand controller & Food model segmentation with shader
 ![](Images/cutFood.gif)
 
-#### Reset button to reset current food in case of bad cut
+#### Food fly to pot animation
+![](Images/flyToPot.gif)
 
+#### Change Mesh of left hand when it gets cut by knife & blood effect
+![](Images/cutFinger.gif)
+
+#### Reset button to reset current food in case of bad cut
+Footage to be added...
+
+#### Final scoring board based on players' performance
+![](Images/end.gif)
 
 ## Click the image to watch the full gameplay video!
 [![Watch the video](https://img.youtube.com/vi/T9hSP2DSXxc/maxresdefault.jpg)](https://youtu.be/T9hSP2DSXxc)
